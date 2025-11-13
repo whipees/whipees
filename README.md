@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @whipees
 - 👀 I’m interested in You
-- 🌱 I’m currently learning java, js
+- 🌱 I’m currently learning java, js, c#, python, sql
 
 <!---
 whipees/whipees is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
